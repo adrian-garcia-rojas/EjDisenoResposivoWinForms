@@ -1,0 +1,10 @@
+C:\Users\AXL\Documents\Visual Studio 2017\Projects\EjDisenoResposivoWinForms\EjDisenoResposivoWinForms\bin\Debug\EjDisenoResposivoWinForms.exe.config
+C:\Users\AXL\Documents\Visual Studio 2017\Projects\EjDisenoResposivoWinForms\EjDisenoResposivoWinForms\bin\Debug\EjDisenoResposivoWinForms.exe
+C:\Users\AXL\Documents\Visual Studio 2017\Projects\EjDisenoResposivoWinForms\EjDisenoResposivoWinForms\bin\Debug\EjDisenoResposivoWinForms.pdb
+C:\Users\AXL\Documents\Visual Studio 2017\Projects\EjDisenoResposivoWinForms\EjDisenoResposivoWinForms\obj\Debug\EjDisenoResposivoWinForms.csprojAssemblyReference.cache
+C:\Users\AXL\Documents\Visual Studio 2017\Projects\EjDisenoResposivoWinForms\EjDisenoResposivoWinForms\obj\Debug\EjDisenoResposivoWinForms.Form1.resources
+C:\Users\AXL\Documents\Visual Studio 2017\Projects\EjDisenoResposivoWinForms\EjDisenoResposivoWinForms\obj\Debug\EjDisenoResposivoWinForms.Properties.Resources.resources
+C:\Users\AXL\Documents\Visual Studio 2017\Projects\EjDisenoResposivoWinForms\EjDisenoResposivoWinForms\obj\Debug\EjDisenoResposivoWinForms.csproj.GenerateResource.cache
+C:\Users\AXL\Documents\Visual Studio 2017\Projects\EjDisenoResposivoWinForms\EjDisenoResposivoWinForms\obj\Debug\EjDisenoResposivoWinForms.csproj.CoreCompileInputs.cache
+C:\Users\AXL\Documents\Visual Studio 2017\Projects\EjDisenoResposivoWinForms\EjDisenoResposivoWinForms\obj\Debug\EjDisenoResposivoWinForms.exe
+C:\Users\AXL\Documents\Visual Studio 2017\Projects\EjDisenoResposivoWinForms\EjDisenoResposivoWinForms\obj\Debug\EjDisenoResposivoWinForms.pdb
